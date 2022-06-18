@@ -14,7 +14,7 @@ IN:
 
 ![image](https://user-images.githubusercontent.com/71984608/174431333-2c7398b8-e5f7-4e96-8e8d-0bfa967bad9c.png)
 
---each column that states 'סדנה' == activity , represents a day
+File must contain ('שם','כיתה','מגדר,רפואיות', סדנה1....)
 
 OUT:
 
